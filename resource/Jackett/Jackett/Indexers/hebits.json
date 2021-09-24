@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://hebits.net/"
+  },
+  {
+    "id": "cookie",
+    "type": "inputstring",
+    "name": "Cookie",
+    "value": "hebits=hebits; uid=33602; pass=92eb8d477a0ee9078f5267c9269b4bb4; session=YP6BG7cVVuR1DbHa1r41BFmHhgPReu4aXuGQYgr8oq66hAsred9e6SBB8ElrWm9I; userid=33602"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "hebits=hebits; uid=33602; pass=92eb8d477a0ee9078f5267c9269b4bb4; session=YP6BG7cVVuR1DbHa1r41BFmHhgPReu4aXuGQYgr8oq66hAsred9e6SBB8ElrWm9I; userid=33602"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

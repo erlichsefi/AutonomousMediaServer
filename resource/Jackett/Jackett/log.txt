@@ -1,0 +1,757 @@
+2021-09-05 13:16:00.9743 Info Starting Jackett v0.18.656 
+2021-09-05 13:16:02.2059 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-05 13:16:02.2084 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-05 13:16:02.2084 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-05 13:16:02.2237 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-05 13:16:02.2237 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-05 13:16:02.2237 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-05 13:16:02.2265 Info App config/log directory: /config/Jackett 
+2021-09-05 13:16:02.2265 Info Using proxy: Disabled 
+2021-09-05 13:16:02.2265 Info Using FlareSolverr: No 
+2021-09-05 13:16:02.2314 Info Using HTTP Client: HttpWebClient2 
+2021-09-05 13:16:02.2434 Info Loading Native indexers ... 
+2021-09-05 13:16:02.5050 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-05 13:16:02.5184 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-05 13:16:05.6746 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-05 13:16:05.6746 Info Loaded 545 indexers in total 
+2021-09-05 13:16:05.6746 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-05 13:16:05.6880 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-05 13:16:05.6880 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-05 13:16:05.6880 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-05 13:16:06.0007 Warn No XML encryptor configured. Key {9feea576-c723-4e1c-8300-94c5191375a1} may be persisted to storage in unencrypted form. 
+2021-09-05 13:16:06.0007 Warn No XML encryptor configured. Key {9feea576-c723-4e1c-8300-94c5191375a1} may be persisted to storage in unencrypted form. 
+2021-09-05 13:16:06.1355 Info Jackett startup finished in 6.042 s 
+2021-09-05 13:23:08.2452 Info Starting Jackett v0.18.656 
+2021-09-05 13:23:09.0378 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-05 13:23:09.0389 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-05 13:23:09.0389 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-05 13:23:09.0389 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-05 13:23:09.0389 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-05 13:23:09.0389 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-05 13:23:09.0389 Info App config/log directory: /config/Jackett 
+2021-09-05 13:23:09.0389 Info Using proxy: Disabled 
+2021-09-05 13:23:09.0389 Info Using FlareSolverr: No 
+2021-09-05 13:23:09.0466 Info Using HTTP Client: HttpWebClient2 
+2021-09-05 13:23:09.0538 Info Loading Native indexers ... 
+2021-09-05 13:23:09.2234 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-05 13:23:09.2278 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-05 13:23:11.5889 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-05 13:23:11.5908 Info Loaded 545 indexers in total 
+2021-09-05 13:23:11.5908 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-05 13:23:11.6037 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-05 13:23:11.6037 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-05 13:23:11.6037 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-05 13:23:11.9403 Info Jackett startup finished in 4.527 s 
+2021-09-05 13:26:53.8288 Info Test search in Hebits => Found 50 releases 
+2021-09-05 13:29:26.8654 Info Test search in TorrentLeech => Found 35 releases 
+2021-09-05 13:59:43.7975 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 13:59:45.6411 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:01:17.6610 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:07:37.7595 Info Starting Jackett v0.18.656 
+2021-09-05 14:07:39.0012 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-05 14:07:39.0022 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-05 14:07:39.0022 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-05 14:07:39.0022 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-05 14:07:39.0022 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-05 14:07:39.0022 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-05 14:07:39.0022 Info App config/log directory: /config/Jackett 
+2021-09-05 14:07:39.0022 Info Using proxy: Disabled 
+2021-09-05 14:07:39.0022 Info Using FlareSolverr: No 
+2021-09-05 14:07:39.0022 Info Using HTTP Client: HttpWebClient2 
+2021-09-05 14:07:39.0125 Info Loading Native indexers ... 
+2021-09-05 14:07:39.2421 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-05 14:07:39.2462 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-05 14:07:41.4455 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-05 14:07:41.4455 Info Loaded 545 indexers in total 
+2021-09-05 14:07:41.4473 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-05 14:07:41.4542 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-05 14:07:41.4542 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-05 14:07:41.4542 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-05 14:07:41.6894 Info Jackett startup finished in 4.617 s 
+2021-09-05 14:10:27.1404 Info Starting Jackett v0.18.656 
+2021-09-05 14:10:28.1079 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-05 14:10:28.1079 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-05 14:10:28.1079 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-05 14:10:28.1079 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-05 14:10:28.1079 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-05 14:10:28.1079 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-05 14:10:28.1103 Info App config/log directory: /config/Jackett 
+2021-09-05 14:10:28.1103 Info Using proxy: Disabled 
+2021-09-05 14:10:28.1103 Info Using FlareSolverr: No 
+2021-09-05 14:10:28.1103 Info Using HTTP Client: HttpWebClient2 
+2021-09-05 14:10:28.1183 Info Loading Native indexers ... 
+2021-09-05 14:10:28.4047 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-05 14:10:28.4114 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-05 14:10:30.4398 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-05 14:10:30.4398 Info Loaded 545 indexers in total 
+2021-09-05 14:10:30.4398 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-05 14:10:30.4481 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-05 14:10:30.4481 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-05 14:10:30.4481 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-05 14:10:30.6079 Info Jackett startup finished in 4.405 s 
+2021-09-05 14:13:59.3143 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 14:14:00.5427 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 14:15:17.3490 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:15:31.6774 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 14:16:34.5063 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:32:04.5840 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:43:46.2679 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:45:15.7484 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:47:05.3495 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:49:32.3577 Info Torznab search in AggregateSearch for Smallville S01E21 => Found 1 releases 
+2021-09-05 14:54:31.7264 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 14:54:33.1540 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 14:55:29.1844 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:55:54.8023 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 14:56:19.6201 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 15:02:06.5319 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 15:10:30.4642 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2021-09-05 15:10:30.8719 Info Jackett is already updated. Current version: v0.18.656 
+2021-09-05 15:15:34.7812 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 15:15:35.0177 Info Torznab search in AggregateSearch for Smallville S01E01 => Found 1 releases 
+2021-09-05 15:15:44.4013 Info Torznab search in AggregateSearch for Smallville S01E02 => Found 0 releases 
+2021-09-05 15:16:55.9789 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 15:17:07.3431 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 15:20:08.1640 Info Torznab search in AggregateSearch for Smallville S10E02 => Found 0 releases 
+2021-09-05 15:20:10.3762 Info Torznab search in AggregateSearch for Smallville S10E03 => Found 1 releases 
+2021-09-05 15:20:12.1327 Info Torznab search in AggregateSearch for Smallville S10E04 => Found 0 releases 
+2021-09-05 15:20:13.9697 Info Torznab search in AggregateSearch for Smallville S10E05 => Found 1 releases 
+2021-09-05 15:20:15.9690 Info Torznab search in AggregateSearch for Smallville S10E06 => Found 0 releases 
+2021-09-05 15:20:18.1872 Info Torznab search in AggregateSearch for Smallville S10E07 => Found 0 releases 
+2021-09-05 15:20:19.9616 Info Torznab search in AggregateSearch for Smallville S10E08 => Found 0 releases 
+2021-09-05 15:20:22.1763 Info Torznab search in AggregateSearch for Smallville S10E09 => Found 0 releases 
+2021-09-05 15:20:24.1049 Info Torznab search in AggregateSearch for Smallville S10E10 => Found 0 releases 
+2021-09-05 15:20:25.9724 Info Torznab search in AggregateSearch for Smallville S10E11 => Found 0 releases 
+2021-09-05 15:20:28.0284 Info Torznab search in AggregateSearch for Smallville S10E12 => Found 0 releases 
+2021-09-05 15:20:29.9552 Info Torznab search in AggregateSearch for Smallville S10E13 => Found 0 releases 
+2021-09-05 15:20:31.9285 Info Torznab search in AggregateSearch for Smallville S10E14 => Found 0 releases 
+2021-09-05 15:20:33.9480 Info Torznab search in AggregateSearch for Smallville S10E15 => Found 0 releases 
+2021-09-05 15:20:36.1407 Info Torznab search in AggregateSearch for Smallville S10E16 => Found 0 releases 
+2021-09-05 15:20:38.1377 Info Torznab search in AggregateSearch for Smallville S10E17 => Found 0 releases 
+2021-09-05 15:20:39.9718 Info Torznab search in AggregateSearch for Smallville S10E18 => Found 0 releases 
+2021-09-05 15:20:41.9555 Info Torznab search in AggregateSearch for Smallville S10E19 => Found 1 releases 
+2021-09-05 15:20:43.9527 Info Torznab search in AggregateSearch for Smallville S10E20 => Found 0 releases 
+2021-09-05 15:20:45.9535 Info Torznab search in AggregateSearch for Smallville S10E21 => Found 0 releases 
+2021-09-05 15:27:28.8354 Info Test search in TorrentLeech => Found 35 releases 
+2021-09-05 15:27:40.4975 Info Torznab search in AggregateSearch for Smallville S01E01 => Found 0 releases 
+2021-09-05 15:27:42.5184 Info Torznab search in AggregateSearch for Smallville S01E02 => Found 0 releases 
+2021-09-05 15:27:44.3015 Info Torznab search in AggregateSearch for Smallville S01E03 => Found 0 releases 
+2021-09-05 15:27:46.5821 Info Torznab search in AggregateSearch for Smallville S01E04 => Found 0 releases 
+2021-09-05 15:27:48.3740 Info Torznab search in AggregateSearch for Smallville S01E05 => Found 0 releases 
+2021-09-05 15:27:50.3256 Info Torznab search in AggregateSearch for Smallville S01E06 => Found 0 releases 
+2021-09-05 15:27:52.5060 Info Torznab search in AggregateSearch for Smallville S01E07 => Found 0 releases 
+2021-09-05 15:27:54.3041 Info Torznab search in AggregateSearch for Smallville S01E08 => Found 0 releases 
+2021-09-05 15:27:56.2904 Info Torznab search in AggregateSearch for Smallville S01E09 => Found 0 releases 
+2021-09-05 15:27:58.3381 Info Torznab search in AggregateSearch for Smallville S01E10 => Found 0 releases 
+2021-09-05 15:28:00.3950 Info Torznab search in AggregateSearch for Smallville S01E11 => Found 0 releases 
+2021-09-05 15:28:02.3413 Info Torznab search in AggregateSearch for Smallville S01E12 => Found 0 releases 
+2021-09-05 15:28:04.4193 Info Torznab search in AggregateSearch for Smallville S01E13 => Found 0 releases 
+2021-09-05 15:28:06.5004 Info Torznab search in AggregateSearch for Smallville S01E14 => Found 0 releases 
+2021-09-05 15:28:09.0275 Info Torznab search in AggregateSearch for Smallville S01E15 => Found 0 releases 
+2021-09-05 15:28:10.3483 Info Torznab search in AggregateSearch for Smallville S01E16 => Found 0 releases 
+2021-09-05 15:32:08.8746 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 15:47:38.9372 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 16:02:39.8179 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 16:15:38.7435 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 16:17:41.0931 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 16:32:41.2360 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 16:47:41.6580 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 17:02:43.0788 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 17:15:42.1139 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 17:18:12.6887 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 17:33:13.2048 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 17:48:14.3769 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 18:03:44.6053 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 18:15:45.5531 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:18:45.5492 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 18:24:23.5626 Error Request for unknown indexer: YOURINDEXER 
+2021-09-05 18:24:23.5626 Error System.Exception: Unknown indexer: YOURINDEXER
+   at Jackett.Common.Services.IndexerManagerService.GetWebIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 289
+   at Jackett.Server.Controllers.RequiresConfiguredIndexer.OnActionExecuting(ActionExecutingContext context) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 System.Exception: Unknown indexer: YOURINDEXER
+   at Jackett.Common.Services.IndexerManagerService.GetWebIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 289
+   at Jackett.Server.Controllers.RequiresConfiguredIndexer.OnActionExecuting(ActionExecutingContext context) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ResultsController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2021-09-05 18:25:57.8191 Warn Some of the categories provided are unsupported in Hebits: 2010,2030,2040,2045,2050,2060 
+2021-09-05 18:25:58.2863 Info Torznab search in Hebits => Found 50 releases 
+2021-09-05 18:26:28.6508 Warn Some of the categories provided are unsupported in Hebits: 2010,2030,2040,2045,2050,2060 
+2021-09-05 18:26:28.6508 Info Torznab search in Hebits => Found 50 releases (from cache) 
+2021-09-05 18:26:50.4565 Warn Some of the categories provided are unsupported in TorrentLeech: 2020,2060 
+2021-09-05 18:26:51.8123 Info Torznab search in TorrentLeech => Found 35 releases 
+2021-09-05 18:26:52.5185 Warn Some of the categories provided are unsupported in TorrentLeech: 2020,2060 
+2021-09-05 18:26:52.5185 Info Torznab search in TorrentLeech => Found 35 releases (from cache) 
+2021-09-05 18:28:27.2036 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 18:28:28.7639 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 18:28:49.8042 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:28:51.8090 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:30:00.1587 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:30:19.0587 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:33:46.3919 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:46:55.9765 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:49:16.6813 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 18:59:55.0557 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 19:01:47.1895 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 19:04:29.1256 Info Torznab search in AggregateSearch for Shababnikim S02 => Found 0 releases 
+2021-09-05 19:04:30.9819 Info Torznab search in AggregateSearch for New Black S02 => Found 0 releases 
+2021-09-05 19:04:47.1818 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 19:06:50.7967 Info Torznab search in AggregateSearch for Shababnikim S02E01 => Found 0 releases 
+2021-09-05 19:06:52.8363 Info Torznab search in AggregateSearch for New Black S02E01 => Found 0 releases 
+2021-09-05 19:06:54.5848 Info Torznab search in AggregateSearch for Shababnikim S02E02 => Found 0 releases 
+2021-09-05 19:06:56.8370 Info Torznab search in AggregateSearch for New Black S02E02 => Found 0 releases 
+2021-09-05 19:06:58.6315 Info Torznab search in AggregateSearch for Shababnikim S02E03 => Found 0 releases 
+2021-09-05 19:07:00.6341 Info Torznab search in AggregateSearch for New Black S02E03 => Found 0 releases 
+2021-09-05 19:07:02.6149 Info Torznab search in AggregateSearch for Shababnikim S02E04 => Found 0 releases 
+2021-09-05 19:07:04.8705 Info Torznab search in AggregateSearch for New Black S02E04 => Found 0 releases 
+2021-09-05 19:07:06.8393 Info Torznab search in AggregateSearch for Shababnikim S02E05 => Found 0 releases 
+2021-09-05 19:07:08.6066 Info Torznab search in AggregateSearch for New Black S02E05 => Found 0 releases 
+2021-09-05 19:07:10.8677 Info Torznab search in AggregateSearch for Shababnikim S02E06 => Found 0 releases 
+2021-09-05 19:07:13.2532 Info Torznab search in AggregateSearch for New Black S02E06 => Found 0 releases 
+2021-09-05 19:07:15.3029 Info Torznab search in AggregateSearch for Shababnikim S02E07 => Found 0 releases 
+2021-09-05 19:07:16.6189 Info Torznab search in AggregateSearch for New Black S02E07 => Found 0 releases 
+2021-09-05 19:07:18.6296 Info Torznab search in AggregateSearch for Shababnikim S02E08 => Found 0 releases 
+2021-09-05 19:07:20.6114 Info Torznab search in AggregateSearch for New Black S02E08 => Found 0 releases 
+2021-09-05 19:07:22.6462 Info Torznab search in AggregateSearch for Shababnikim S02E09 => Found 0 releases 
+2021-09-05 19:07:24.9584 Info Torznab search in AggregateSearch for New Black S02E09 => Found 0 releases 
+2021-09-05 19:07:26.6063 Info Torznab search in AggregateSearch for Shababnikim S02E10 => Found 0 releases 
+2021-09-05 19:07:28.6337 Info Torznab search in AggregateSearch for New Black S02E10 => Found 0 releases 
+2021-09-05 19:08:28.8019 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 19:08:30.8829 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 19:11:44.5286 Info Torznab search in AggregateSearch for Shababnikim S02 => Found 0 releases 
+2021-09-05 19:11:46.5300 Info Torznab search in AggregateSearch for New Black S02 => Found 0 releases 
+2021-09-05 19:11:53.6277 Info Torznab search in AggregateSearch for Shababnikim S01 => Found 0 releases 
+2021-09-05 19:11:55.4674 Info Torznab search in AggregateSearch for New Black S01 => Found 1 releases 
+2021-09-05 19:14:34.4305 Info Torznab search in AggregateSearch for I Griffin S20E01 => Found 0 releases 
+2021-09-05 19:14:36.1631 Info Torznab search in AggregateSearch for Padre de familia S20E01 => Found 0 releases 
+2021-09-05 19:14:38.4053 Info Torznab search in AggregateSearch for Family Guy S20E01 => Found 0 releases 
+2021-09-05 19:15:15.6304 Info Torznab search in AggregateSearch for Shababnikim S01E01 => Found 0 releases 
+2021-09-05 19:15:17.6518 Info Torznab search in AggregateSearch for New Black S01E01 => Found 0 releases 
+2021-09-05 19:15:19.4947 Info Torznab search in AggregateSearch for Shababnikim S01E02 => Found 0 releases 
+2021-09-05 19:15:21.4292 Info Torznab search in AggregateSearch for New Black S01E02 => Found 0 releases 
+2021-09-05 19:15:23.6703 Info Torznab search in AggregateSearch for Shababnikim S01E03 => Found 0 releases 
+2021-09-05 19:15:25.4718 Info Torznab search in AggregateSearch for New Black S01E03 => Found 0 releases 
+2021-09-05 19:15:27.4500 Info Torznab search in AggregateSearch for Shababnikim S01E04 => Found 0 releases 
+2021-09-05 19:15:29.4545 Info Torznab search in AggregateSearch for New Black S01E04 => Found 0 releases 
+2021-09-05 19:15:31.4545 Info Torznab search in AggregateSearch for Shababnikim S01E05 => Found 0 releases 
+2021-09-05 19:15:33.4223 Info Torznab search in AggregateSearch for New Black S01E05 => Found 0 releases 
+2021-09-05 19:15:35.4363 Info Torznab search in AggregateSearch for Shababnikim S01E06 => Found 0 releases 
+2021-09-05 19:15:37.4337 Info Torznab search in AggregateSearch for New Black S01E06 => Found 0 releases 
+2021-09-05 19:15:39.4279 Info Torznab search in AggregateSearch for Shababnikim S01E07 => Found 0 releases 
+2021-09-05 19:15:41.4438 Info Torznab search in AggregateSearch for New Black S01E07 => Found 0 releases 
+2021-09-05 19:15:43.4287 Info Torznab search in AggregateSearch for Shababnikim S01E08 => Found 0 releases 
+2021-09-05 19:15:45.7399 Info Torznab search in AggregateSearch for New Black S01E08 => Found 0 releases 
+2021-09-05 19:15:47.6575 Info Torznab search in AggregateSearch for Shababnikim S01E09 => Found 0 releases 
+2021-09-05 19:15:49.4712 Info Torznab search in AggregateSearch for New Black S01E09 => Found 0 releases 
+2021-09-05 19:15:51.4218 Info Torznab search in AggregateSearch for Shababnikim S01E10 => Found 0 releases 
+2021-09-05 19:15:53.4573 Info Torznab search in AggregateSearch for New Black S01E10 => Found 0 releases 
+2021-09-05 19:15:55.6611 Info Torznab search in AggregateSearch for Shababnikim S01E11 => Found 0 releases 
+2021-09-05 19:15:57.4608 Info Torznab search in AggregateSearch for New Black S01E11 => Found 0 releases 
+2021-09-05 19:16:00.8513 Info Torznab search in AggregateSearch for Shababnikim S01E12 => Found 0 releases 
+2021-09-05 19:16:03.2069 Info Torznab search in AggregateSearch for New Black S01E12 => Found 0 releases 
+2021-09-05 19:18:36.4602 Info Torznab search in AggregateSearch for I Griffin S19E01 => Found 0 releases 
+2021-09-05 19:18:38.3717 Info Torznab search in AggregateSearch for Padre de familia S19E01 => Found 0 releases 
+2021-09-05 19:18:40.1039 Info Torznab search in AggregateSearch for Family Guy S19E01 => Found 0 releases 
+2021-09-05 19:18:42.3405 Info Torznab search in AggregateSearch for I Griffin S19E02 => Found 0 releases 
+2021-09-05 19:18:44.1418 Info Torznab search in AggregateSearch for Padre de familia S19E02 => Found 0 releases 
+2021-09-05 19:18:46.3198 Info Torznab search in AggregateSearch for Family Guy S19E02 => Found 0 releases 
+2021-09-05 19:18:48.3023 Info Torznab search in AggregateSearch for I Griffin S19E03 => Found 0 releases 
+2021-09-05 19:18:50.2943 Info Torznab search in AggregateSearch for Padre de familia S19E03 => Found 0 releases 
+2021-09-05 19:18:52.3355 Info Torznab search in AggregateSearch for Family Guy S19E03 => Found 0 releases 
+2021-09-05 19:18:54.1075 Info Torznab search in AggregateSearch for I Griffin S19E04 => Found 0 releases 
+2021-09-05 19:18:56.3085 Info Torznab search in AggregateSearch for Padre de familia S19E04 => Found 0 releases 
+2021-09-05 19:18:58.1269 Info Torznab search in AggregateSearch for Family Guy S19E04 => Found 0 releases 
+2021-09-05 19:19:00.3339 Info Torznab search in AggregateSearch for I Griffin S19E05 => Found 0 releases 
+2021-09-05 19:19:02.1547 Info Torznab search in AggregateSearch for Padre de familia S19E05 => Found 0 releases 
+2021-09-05 19:19:04.1149 Info Torznab search in AggregateSearch for Family Guy S19E05 => Found 0 releases 
+2021-09-05 19:19:06.1375 Info Torznab search in AggregateSearch for I Griffin S19E06 => Found 0 releases 
+2021-09-05 19:19:08.4572 Info Torznab search in AggregateSearch for Padre de familia S19E06 => Found 0 releases 
+2021-09-05 19:19:10.1472 Info Torznab search in AggregateSearch for Family Guy S19E06 => Found 0 releases 
+2021-09-05 19:19:12.1178 Info Torznab search in AggregateSearch for I Griffin S19E07 => Found 0 releases 
+2021-09-05 19:19:14.1227 Info Torznab search in AggregateSearch for Padre de familia S19E07 => Found 0 releases 
+2021-09-05 19:19:16.1232 Info Torznab search in AggregateSearch for Family Guy S19E07 => Found 0 releases 
+2021-09-05 19:19:18.3755 Info Torznab search in AggregateSearch for I Griffin S19E08 => Found 0 releases 
+2021-09-05 19:19:20.1295 Info Torznab search in AggregateSearch for Padre de familia S19E08 => Found 0 releases 
+2021-09-05 19:19:22.1273 Info Torznab search in AggregateSearch for Family Guy S19E08 => Found 0 releases 
+2021-09-05 19:19:24.1395 Info Torznab search in AggregateSearch for I Griffin S19E09 => Found 0 releases 
+2021-09-05 19:19:26.0971 Info Torznab search in AggregateSearch for Padre de familia S19E09 => Found 0 releases 
+2021-09-05 19:19:28.1715 Info Torznab search in AggregateSearch for Family Guy S19E09 => Found 0 releases 
+2021-09-05 19:19:30.1221 Info Torznab search in AggregateSearch for I Griffin S19E10 => Found 0 releases 
+2021-09-05 19:19:32.1123 Info Torznab search in AggregateSearch for Padre de familia S19E10 => Found 0 releases 
+2021-09-05 19:19:34.1541 Info Torznab search in AggregateSearch for Family Guy S19E10 => Found 0 releases 
+2021-09-05 19:19:36.1537 Info Torznab search in AggregateSearch for I Griffin S19E11 => Found 0 releases 
+2021-09-05 19:19:38.1478 Info Torznab search in AggregateSearch for Padre de familia S19E11 => Found 0 releases 
+2021-09-05 19:19:40.1088 Info Torznab search in AggregateSearch for Family Guy S19E11 => Found 0 releases 
+2021-09-05 19:19:42.1153 Info Torznab search in AggregateSearch for I Griffin S19E12 => Found 0 releases 
+2021-09-05 19:19:44.2983 Info Torznab search in AggregateSearch for Padre de familia S19E12 => Found 0 releases 
+2021-09-05 19:19:46.1507 Info Torznab search in AggregateSearch for Family Guy S19E12 => Found 0 releases 
+2021-09-05 19:19:48.1311 Info Torznab search in AggregateSearch for I Griffin S19E13 => Found 0 releases 
+2021-09-05 19:19:50.1420 Info Torznab search in AggregateSearch for Padre de familia S19E13 => Found 0 releases 
+2021-09-05 19:19:51.9197 Info Torznab search in AggregateSearch => Found 35 releases 
+2021-09-05 19:19:54.3134 Info Torznab search in AggregateSearch for Family Guy S19E13 => Found 0 releases 
+2021-09-05 19:19:56.1415 Info Torznab search in AggregateSearch for I Griffin S19E14 => Found 0 releases 
+2021-09-05 19:19:58.1401 Info Torznab search in AggregateSearch for Padre de familia S19E14 => Found 0 releases 
+2021-09-05 19:20:00.1251 Info Torznab search in AggregateSearch for Family Guy S19E14 => Found 0 releases 
+2021-09-05 19:20:02.1312 Info Torznab search in AggregateSearch for I Griffin S19E15 => Found 0 releases 
+2021-09-05 19:20:04.2967 Info Torznab search in AggregateSearch for Padre de familia S19E15 => Found 0 releases 
+2021-09-05 19:20:06.1276 Info Torznab search in AggregateSearch for Family Guy S19E15 => Found 0 releases 
+2021-09-05 19:20:08.1189 Info Torznab search in AggregateSearch for I Griffin S19E16 => Found 0 releases 
+2021-09-05 19:20:10.1277 Info Torznab search in AggregateSearch for Padre de familia S19E16 => Found 0 releases 
+2021-09-05 19:20:12.8213 Info Torznab search in AggregateSearch for Family Guy S19E16 => Found 0 releases 
+2021-09-05 19:20:14.1564 Info Torznab search in AggregateSearch for I Griffin S19E17 => Found 0 releases 
+2021-09-05 19:20:16.1611 Info Torznab search in AggregateSearch for Padre de familia S19E17 => Found 0 releases 
+2021-09-05 19:20:18.1556 Info Torznab search in AggregateSearch for Family Guy S19E17 => Found 0 releases 
+2021-09-05 19:20:20.1364 Info Torznab search in AggregateSearch for I Griffin S19E18 => Found 0 releases 
+2021-09-05 19:20:33.8368 Info Torznab search in AggregateSearch for Padre de familia S19E18 => Found 0 releases 
+2021-09-05 19:20:34.0835 Info Torznab search in AggregateSearch for Family Guy S19E18 => Found 0 releases 
+2021-09-05 19:20:36.5928 Info Torznab search in AggregateSearch for I Griffin S19E19 => Found 0 releases 
+2021-09-05 19:20:38.0484 Info Torznab search in AggregateSearch for Padre de familia S19E19 => Found 0 releases 
+2021-09-05 19:20:40.0712 Info Torznab search in AggregateSearch for Family Guy S19E19 => Found 0 releases 
+2021-09-05 19:20:42.0225 Info Torznab search in AggregateSearch for I Griffin S19E20 => Found 0 releases 
+2021-09-05 19:20:44.0484 Info Torznab search in AggregateSearch for Padre de familia S19E20 => Found 0 releases 
+2021-09-05 19:20:46.2746 Info Torznab search in AggregateSearch for Family Guy S19E20 => Found 0 releases 
+2021-09-05 19:23:05.6989 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 19:23:07.2046 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 19:27:11.3833 Info Torznab search in AggregateSearch for I Griffin S19 => Found 0 releases 
+2021-09-05 19:27:13.1161 Info Torznab search in AggregateSearch for Padre de familia S19 => Found 0 releases 
+2021-09-05 19:27:15.1315 Info Torznab search in AggregateSearch for Family Guy S19 => Found 39 releases 
+2021-09-05 19:35:19.2245 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 19:47:21.6847 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 19:50:20.4377 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 20:05:22.0511 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 20:20:52.3356 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 20:35:53.4750 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 20:47:25.9695 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 20:50:54.7588 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 21:06:24.9616 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 21:18:15.5934 Info Torznab search in AggregateSearch for Simpsons S01 => Found 16 releases 
+2021-09-05 21:18:16.9565 Info Torznab search in AggregateSearch for Les Simpson S01 => Found 0 releases 
+2021-09-05 21:18:18.9551 Info Torznab search in AggregateSearch for Los Simpson S01 => Found 0 releases 
+2021-09-05 21:18:20.9237 Info Torznab search in AggregateSearch for Los Simpsons S01 => Found 0 releases 
+2021-09-05 21:18:22.9279 Info Torznab search in AggregateSearch for Simpsons QC S01 => Found 0 releases 
+2021-09-05 21:18:24.9547 Info Torznab search in AggregateSearch for Simpsons S02 => Found 4 releases 
+2021-09-05 21:18:26.9129 Info Torznab search in AggregateSearch for Les Simpson S02 => Found 0 releases 
+2021-09-05 21:18:31.5651 Info Torznab search in AggregateSearch for Los Simpson S02 => Found 0 releases 
+2021-09-05 21:18:32.0400 Info Torznab search in AggregateSearch for Los Simpsons S02 => Found 0 releases 
+2021-09-05 21:18:33.7990 Info Torznab search in AggregateSearch for Simpsons QC S02 => Found 0 releases 
+2021-09-05 21:18:35.7732 Info Torznab search in AggregateSearch for Simpsons S03 => Found 3 releases 
+2021-09-05 21:18:37.7544 Info Torznab search in AggregateSearch for Les Simpson S03 => Found 0 releases 
+2021-09-05 21:18:39.7567 Info Torznab search in AggregateSearch for Los Simpson S03 => Found 0 releases 
+2021-09-05 21:18:41.7736 Info Torznab search in AggregateSearch for Los Simpsons S03 => Found 0 releases 
+2021-09-05 21:18:43.9219 Info Torznab search in AggregateSearch for Simpsons QC S03 => Found 0 releases 
+2021-09-05 21:18:45.7818 Info Torznab search in AggregateSearch for Simpsons S04 => Found 3 releases 
+2021-09-05 21:18:48.1462 Info Torznab search in AggregateSearch for Les Simpson S04 => Found 0 releases 
+2021-09-05 21:18:49.7591 Info Torznab search in AggregateSearch for Los Simpson S04 => Found 0 releases 
+2021-09-05 21:18:51.7663 Info Torznab search in AggregateSearch for Los Simpsons S04 => Found 0 releases 
+2021-09-05 21:18:53.8049 Info Torznab search in AggregateSearch for Simpsons QC S04 => Found 0 releases 
+2021-09-05 21:18:55.7972 Info Torznab search in AggregateSearch for Simpsons S05 => Found 3 releases 
+2021-09-05 21:18:57.7725 Info Torznab search in AggregateSearch for Les Simpson S05 => Found 0 releases 
+2021-09-05 21:18:59.7631 Info Torznab search in AggregateSearch for Los Simpson S05 => Found 0 releases 
+2021-09-05 21:19:01.8099 Info Torznab search in AggregateSearch for Los Simpsons S05 => Found 0 releases 
+2021-09-05 21:19:03.8204 Info Torznab search in AggregateSearch for Simpsons QC S05 => Found 0 releases 
+2021-09-05 21:19:05.7795 Info Torznab search in AggregateSearch for Simpsons S06 => Found 4 releases 
+2021-09-05 21:19:07.7793 Info Torznab search in AggregateSearch for Les Simpson S06 => Found 0 releases 
+2021-09-05 21:19:10.1886 Info Torznab search in AggregateSearch for Los Simpson S06 => Found 0 releases 
+2021-09-05 21:19:11.7855 Info Torznab search in AggregateSearch for Los Simpsons S06 => Found 0 releases 
+2021-09-05 21:19:14.4023 Info Torznab search in AggregateSearch for Simpsons QC S06 => Found 0 releases 
+2021-09-05 21:19:16.2254 Info Torznab search in AggregateSearch for Simpsons S07 => Found 2 releases 
+2021-09-05 21:19:18.4454 Info Torznab search in AggregateSearch for Les Simpson S07 => Found 0 releases 
+2021-09-05 21:19:20.2457 Info Torznab search in AggregateSearch for Los Simpson S07 => Found 0 releases 
+2021-09-05 21:19:22.2052 Info Torznab search in AggregateSearch for Los Simpsons S07 => Found 0 releases 
+2021-09-05 21:19:24.2721 Info Torznab search in AggregateSearch for Simpsons QC S07 => Found 0 releases 
+2021-09-05 21:19:26.2023 Info Torznab search in AggregateSearch for Simpsons S08 => Found 4 releases 
+2021-09-05 21:19:28.5072 Info Torznab search in AggregateSearch for Les Simpson S08 => Found 0 releases 
+2021-09-05 21:19:30.7733 Info Torznab search in AggregateSearch for Los Simpson S08 => Found 0 releases 
+2021-09-05 21:19:32.2091 Info Torznab search in AggregateSearch for Los Simpsons S08 => Found 0 releases 
+2021-09-05 21:19:34.1547 Info Torznab search in AggregateSearch for Simpsons QC S08 => Found 0 releases 
+2021-09-05 21:19:36.5555 Info Torznab search in AggregateSearch for Simpsons S09 => Found 4 releases 
+2021-09-05 21:19:38.6106 Info Torznab search in AggregateSearch for Les Simpson S09 => Found 0 releases 
+2021-09-05 21:19:40.2705 Info Torznab search in AggregateSearch for Los Simpson S09 => Found 0 releases 
+2021-09-05 21:19:42.4961 Info Torznab search in AggregateSearch for Los Simpsons S09 => Found 0 releases 
+2021-09-05 21:19:44.5922 Info Torznab search in AggregateSearch for Simpsons QC S09 => Found 0 releases 
+2021-09-05 21:19:46.2980 Info Torznab search in AggregateSearch for Simpsons S10 => Found 29 releases 
+2021-09-05 21:19:48.3000 Info Torznab search in AggregateSearch for Les Simpson S10 => Found 0 releases 
+2021-09-05 21:19:50.2131 Info Torznab search in AggregateSearch for Los Simpson S10 => Found 0 releases 
+2021-09-05 21:19:52.2135 Info Torznab search in AggregateSearch for Los Simpsons S10 => Found 0 releases 
+2021-09-05 21:19:54.1652 Info Torznab search in AggregateSearch for Simpsons QC S10 => Found 0 releases 
+2021-09-05 21:19:56.2035 Info Torznab search in AggregateSearch for Simpsons S11 => Found 7 releases 
+2021-09-05 21:19:58.1794 Info Torznab search in AggregateSearch for Les Simpson S11 => Found 0 releases 
+2021-09-05 21:20:00.1599 Info Torznab search in AggregateSearch for Los Simpson S11 => Found 0 releases 
+2021-09-05 21:20:02.3286 Info Torznab search in AggregateSearch for Los Simpsons S11 => Found 0 releases 
+2021-09-05 21:20:04.1714 Info Torznab search in AggregateSearch for Simpsons QC S11 => Found 0 releases 
+2021-09-05 21:20:06.1765 Info Torznab search in AggregateSearch for Simpsons S12 => Found 8 releases 
+2021-09-05 21:20:08.1984 Info Torznab search in AggregateSearch for Les Simpson S12 => Found 0 releases 
+2021-09-05 21:20:10.8586 Info Torznab search in AggregateSearch for Los Simpson S12 => Found 0 releases 
+2021-09-05 21:20:12.1592 Info Torznab search in AggregateSearch for Los Simpsons S12 => Found 0 releases 
+2021-09-05 21:20:14.1850 Info Torznab search in AggregateSearch for Simpsons QC S12 => Found 0 releases 
+2021-09-05 21:20:16.2095 Info Torznab search in AggregateSearch for Simpsons S13 => Found 6 releases 
+2021-09-05 21:20:18.2102 Info Torznab search in AggregateSearch for Les Simpson S13 => Found 0 releases 
+2021-09-05 21:20:20.1871 Info Torznab search in AggregateSearch for Los Simpson S13 => Found 0 releases 
+2021-09-05 21:20:22.1700 Info Torznab search in AggregateSearch for Los Simpsons S13 => Found 0 releases 
+2021-09-05 21:20:24.1677 Info Torznab search in AggregateSearch for Simpsons QC S13 => Found 0 releases 
+2021-09-05 21:20:26.1867 Info Torznab search in AggregateSearch for Simpsons S14 => Found 11 releases 
+2021-09-05 21:20:28.2018 Info Torznab search in AggregateSearch for Les Simpson S14 => Found 0 releases 
+2021-09-05 21:20:30.2091 Info Torznab search in AggregateSearch for Los Simpson S14 => Found 0 releases 
+2021-09-05 21:20:32.1668 Info Torznab search in AggregateSearch for Los Simpsons S14 => Found 0 releases 
+2021-09-05 21:20:34.4484 Info Torznab search in AggregateSearch for Simpsons QC S14 => Found 0 releases 
+2021-09-05 21:20:36.1735 Info Torznab search in AggregateSearch for Simpsons S15 => Found 11 releases 
+2021-09-05 21:20:38.1533 Info Torznab search in AggregateSearch for Les Simpson S15 => Found 0 releases 
+2021-09-05 21:20:40.1728 Info Torznab search in AggregateSearch for Los Simpson S15 => Found 0 releases 
+2021-09-05 21:20:42.2080 Info Torznab search in AggregateSearch for Los Simpsons S15 => Found 0 releases 
+2021-09-05 21:20:44.1544 Info Torznab search in AggregateSearch for Simpsons QC S15 => Found 0 releases 
+2021-09-05 21:20:46.2161 Info Torznab search in AggregateSearch for Simpsons S16 => Found 12 releases 
+2021-09-05 21:20:48.6958 Info Torznab search in AggregateSearch for Les Simpson S16 => Found 0 releases 
+2021-09-05 21:20:50.1722 Info Torznab search in AggregateSearch for Los Simpson S16 => Found 0 releases 
+2021-09-05 21:20:52.1702 Info Torznab search in AggregateSearch for Los Simpsons S16 => Found 0 releases 
+2021-09-05 21:20:54.2088 Info Torznab search in AggregateSearch for Simpsons QC S16 => Found 0 releases 
+2021-09-05 21:20:56.1895 Info Torznab search in AggregateSearch for Simpsons S17 => Found 9 releases 
+2021-09-05 21:20:58.2178 Info Torznab search in AggregateSearch for Les Simpson S17 => Found 2 releases 
+2021-09-05 21:21:00.1522 Info Torznab search in AggregateSearch for Los Simpson S17 => Found 0 releases 
+2021-09-05 21:21:02.1525 Info Torznab search in AggregateSearch for Los Simpsons S17 => Found 0 releases 
+2021-09-05 21:21:04.1669 Info Torznab search in AggregateSearch for Simpsons QC S17 => Found 0 releases 
+2021-09-05 21:21:06.1930 Info Torznab search in AggregateSearch for Simpsons S18 => Found 11 releases 
+2021-09-05 21:21:08.2205 Info Torznab search in AggregateSearch for Les Simpson S18 => Found 0 releases 
+2021-09-05 21:21:10.1934 Info Torznab search in AggregateSearch for Los Simpson S18 => Found 0 releases 
+2021-09-05 21:21:12.1939 Info Torznab search in AggregateSearch for Los Simpsons S18 => Found 0 releases 
+2021-09-05 21:21:14.1524 Info Torznab search in AggregateSearch for Simpsons QC S18 => Found 0 releases 
+2021-09-05 21:21:16.2385 Info Torznab search in AggregateSearch for Simpsons S19 => Found 6 releases 
+2021-09-05 21:21:18.1557 Info Torznab search in AggregateSearch for Les Simpson S19 => Found 0 releases 
+2021-09-05 21:21:20.1549 Info Torznab search in AggregateSearch for Los Simpson S19 => Found 0 releases 
+2021-09-05 21:21:22.1889 Info Torznab search in AggregateSearch for Los Simpsons S19 => Found 0 releases 
+2021-09-05 21:21:24.1318 Info Torznab search in AggregateSearch for Simpsons QC S19 => Found 0 releases 
+2021-09-05 21:21:55.2127 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 21:24:30.2525 Info Torznab search in AggregateSearch for Simpsons S01 => Found 16 releases 
+2021-09-05 21:24:32.2474 Info Torznab search in AggregateSearch for Les Simpson S01 => Found 0 releases 
+2021-09-05 21:24:34.2475 Info Torznab search in AggregateSearch for Los Simpson S01 => Found 0 releases 
+2021-09-05 21:24:36.2496 Info Torznab search in AggregateSearch for Los Simpsons S01 => Found 0 releases 
+2021-09-05 21:24:38.2493 Info Torznab search in AggregateSearch for Simpsons QC S01 => Found 0 releases 
+2021-09-05 21:24:40.2505 Info Torznab search in AggregateSearch for Simpsons S02 => Found 4 releases 
+2021-09-05 21:24:42.2494 Info Torznab search in AggregateSearch for Les Simpson S02 => Found 0 releases 
+2021-09-05 21:24:44.2484 Info Torznab search in AggregateSearch for Los Simpson S02 => Found 0 releases 
+2021-09-05 21:24:46.2487 Info Torznab search in AggregateSearch for Los Simpsons S02 => Found 0 releases 
+2021-09-05 21:24:48.2485 Info Torznab search in AggregateSearch for Simpsons QC S02 => Found 0 releases 
+2021-09-05 21:24:50.2484 Info Torznab search in AggregateSearch for Simpsons S03 => Found 3 releases 
+2021-09-05 21:24:52.2473 Info Torznab search in AggregateSearch for Les Simpson S03 => Found 0 releases 
+2021-09-05 21:24:54.2498 Info Torznab search in AggregateSearch for Los Simpson S03 => Found 0 releases 
+2021-09-05 21:24:56.2496 Info Torznab search in AggregateSearch for Los Simpsons S03 => Found 0 releases 
+2021-09-05 21:24:58.2492 Info Torznab search in AggregateSearch for Simpsons QC S03 => Found 0 releases 
+2021-09-05 21:25:00.2493 Info Torznab search in AggregateSearch for Simpsons S04 => Found 3 releases 
+2021-09-05 21:25:02.2464 Info Torznab search in AggregateSearch for Les Simpson S04 => Found 0 releases 
+2021-09-05 21:25:04.2485 Info Torznab search in AggregateSearch for Los Simpson S04 => Found 0 releases 
+2021-09-05 21:25:06.2490 Info Torznab search in AggregateSearch for Los Simpsons S04 => Found 0 releases 
+2021-09-05 21:25:08.2498 Info Torznab search in AggregateSearch for Simpsons QC S04 => Found 0 releases 
+2021-09-05 21:25:10.2473 Info Torznab search in AggregateSearch for Simpsons S05 => Found 3 releases 
+2021-09-05 21:25:12.2482 Info Torznab search in AggregateSearch for Les Simpson S05 => Found 0 releases 
+2021-09-05 21:25:14.2482 Info Torznab search in AggregateSearch for Los Simpson S05 => Found 0 releases 
+2021-09-05 21:25:16.2498 Info Torznab search in AggregateSearch for Los Simpsons S05 => Found 0 releases 
+2021-09-05 21:25:18.2500 Info Torznab search in AggregateSearch for Simpsons QC S05 => Found 0 releases 
+2021-09-05 21:25:20.2485 Info Torznab search in AggregateSearch for Simpsons S06 => Found 4 releases 
+2021-09-05 21:25:22.2503 Info Torznab search in AggregateSearch for Les Simpson S06 => Found 0 releases 
+2021-09-05 21:25:24.2497 Info Torznab search in AggregateSearch for Los Simpson S06 => Found 0 releases 
+2021-09-05 21:25:26.2484 Info Torznab search in AggregateSearch for Los Simpsons S06 => Found 0 releases 
+2021-09-05 21:25:28.2489 Info Torznab search in AggregateSearch for Simpsons QC S06 => Found 0 releases 
+2021-09-05 21:25:30.2503 Info Torznab search in AggregateSearch for Simpsons S07 => Found 2 releases 
+2021-09-05 21:25:32.2481 Info Torznab search in AggregateSearch for Les Simpson S07 => Found 0 releases 
+2021-09-05 21:25:34.2480 Info Torznab search in AggregateSearch for Los Simpson S07 => Found 0 releases 
+2021-09-05 21:25:36.2478 Info Torznab search in AggregateSearch for Los Simpsons S07 => Found 0 releases 
+2021-09-05 21:25:38.2466 Info Torznab search in AggregateSearch for Simpsons QC S07 => Found 0 releases 
+2021-09-05 21:25:40.2472 Info Torznab search in AggregateSearch for Simpsons S08 => Found 4 releases 
+2021-09-05 21:25:42.2490 Info Torznab search in AggregateSearch for Les Simpson S08 => Found 0 releases 
+2021-09-05 21:25:44.2484 Info Torznab search in AggregateSearch for Los Simpson S08 => Found 0 releases 
+2021-09-05 21:25:46.2498 Info Torznab search in AggregateSearch for Los Simpsons S08 => Found 0 releases 
+2021-09-05 21:25:48.2506 Info Torznab search in AggregateSearch for Simpsons QC S08 => Found 0 releases 
+2021-09-05 21:25:50.2523 Info Torznab search in AggregateSearch for Simpsons S09 => Found 4 releases 
+2021-09-05 21:25:52.2489 Info Torznab search in AggregateSearch for Les Simpson S09 => Found 0 releases 
+2021-09-05 21:25:54.2502 Info Torznab search in AggregateSearch for Los Simpson S09 => Found 0 releases 
+2021-09-05 21:25:56.2504 Info Torznab search in AggregateSearch for Los Simpsons S09 => Found 0 releases 
+2021-09-05 21:25:58.2507 Info Torznab search in AggregateSearch for Simpsons QC S09 => Found 0 releases 
+2021-09-05 21:26:00.2502 Info Torznab search in AggregateSearch for Simpsons S10 => Found 29 releases 
+2021-09-05 21:26:02.2467 Info Torznab search in AggregateSearch for Les Simpson S10 => Found 0 releases 
+2021-09-05 21:26:04.2498 Info Torznab search in AggregateSearch for Los Simpson S10 => Found 0 releases 
+2021-09-05 21:26:06.2512 Info Torznab search in AggregateSearch for Los Simpsons S10 => Found 0 releases 
+2021-09-05 21:26:08.2505 Info Torznab search in AggregateSearch for Simpsons QC S10 => Found 0 releases 
+2021-09-05 21:26:10.2478 Info Torznab search in AggregateSearch for Simpsons S11 => Found 7 releases 
+2021-09-05 21:26:12.2503 Info Torznab search in AggregateSearch for Les Simpson S11 => Found 0 releases 
+2021-09-05 21:26:14.2504 Info Torznab search in AggregateSearch for Los Simpson S11 => Found 0 releases 
+2021-09-05 21:26:16.2506 Info Torznab search in AggregateSearch for Los Simpsons S11 => Found 0 releases 
+2021-09-05 21:26:18.2506 Info Torznab search in AggregateSearch for Simpsons QC S11 => Found 0 releases 
+2021-09-05 21:26:20.2496 Info Torznab search in AggregateSearch for Simpsons S12 => Found 8 releases 
+2021-09-05 21:26:22.2501 Info Torznab search in AggregateSearch for Les Simpson S12 => Found 0 releases 
+2021-09-05 21:26:24.2503 Info Torznab search in AggregateSearch for Los Simpson S12 => Found 0 releases 
+2021-09-05 21:26:26.2479 Info Torznab search in AggregateSearch for Los Simpsons S12 => Found 0 releases 
+2021-09-05 21:26:28.2481 Info Torznab search in AggregateSearch for Simpsons QC S12 => Found 0 releases 
+2021-09-05 21:36:57.0260 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 21:47:31.3243 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 21:52:26.8337 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 22:07:27.5386 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 22:22:30.3362 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 22:32:15.4267 Info Torznab search in AggregateSearch for Heels S01 => Found 5 releases 
+2021-09-05 22:37:31.0149 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 22:47:43.5584 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-05 22:52:15.0044 Info Torznab search in AggregateSearch for See Reich der Blinden S01 => Found 0 releases 
+2021-09-05 22:52:17.0826 Info Torznab search in AggregateSearch for See S01 => Found 85 releases 
+2021-09-05 22:52:30.7217 Info Torznab search in AggregateSearch for See Reich der Blinden S02 => Found 0 releases 
+2021-09-05 22:52:32.7493 Info Torznab search in AggregateSearch for See S02 => Found 37 releases 
+2021-09-05 22:53:02.1163 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 13:29:38.4654 Info Starting Jackett v0.18.656 
+2021-09-06 13:29:47.6889 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-06 13:29:47.6889 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-06 13:29:47.6902 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-06 13:29:47.7907 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-06 13:29:47.8508 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-06 13:29:47.8508 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-06 13:29:47.8508 Info App config/log directory: /config/Jackett 
+2021-09-06 13:29:47.8508 Info Using proxy: Disabled 
+2021-09-06 13:29:47.8508 Info Using FlareSolverr: No 
+2021-09-06 13:29:47.8584 Info Using HTTP Client: HttpWebClient2 
+2021-09-06 13:29:47.8628 Info Loading Native indexers ... 
+2021-09-06 13:29:49.7294 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-06 13:29:49.8336 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-06 13:29:56.1279 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-06 13:29:56.1279 Info Loaded 545 indexers in total 
+2021-09-06 13:29:56.1279 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-06 13:29:56.1353 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-06 13:29:56.1353 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-06 13:29:56.1353 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-06 13:29:56.8277 Info Jackett startup finished in 31.504 s 
+2021-09-06 13:30:21.8478 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 13:30:23.4014 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 13:45:50.2613 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 14:01:21.3164 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 14:16:52.5433 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 14:29:56.1493 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2021-09-06 14:29:56.4879 Info New release found. Current version: v0.18.656 New version: v0.18.666 
+2021-09-06 14:29:56.4879 Info Downloading release v0.18.666 It could take a while... 
+2021-09-06 14:30:15.6579 Info Starting updater: /tmp/JackettUpdate-v0.18.666-637665354122244159/Jackett/JackettUpdater --Path "/app/Jackett" --Type "Console" --Args " --NoRestart" --KillPids "290" --NoRestart 
+2021-09-06 14:30:15.6843 Info Updater started process id: 606 
+2021-09-06 14:30:21.0051 Info Starting Jackett v0.18.666 
+2021-09-06 14:30:21.6089 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-06 14:30:21.6089 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-06 14:30:21.6089 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-06 14:30:21.6103 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-06 14:30:21.6103 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-06 14:30:21.6103 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-06 14:30:21.6103 Info App config/log directory: /config/Jackett 
+2021-09-06 14:30:21.6103 Info Using proxy: Disabled 
+2021-09-06 14:30:21.6103 Info Using FlareSolverr: No 
+2021-09-06 14:30:21.6103 Info Using HTTP Client: HttpWebClient2 
+2021-09-06 14:30:21.6179 Info Loading Native indexers ... 
+2021-09-06 14:30:21.7985 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-06 14:30:21.8022 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-06 14:30:23.3286 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-06 14:30:23.3286 Info Loaded 545 indexers in total 
+2021-09-06 14:30:23.3286 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-06 14:30:23.3365 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-06 14:30:23.3365 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-06 14:30:23.3365 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-06 14:30:23.3414 Info Deleting JackettUpdate temp files from /tmp/JackettUpdate-v0.18.666-637665354122244159 
+2021-09-06 14:30:23.5120 Info Jackett startup finished in 3.130 s 
+2021-09-06 14:30:28.5329 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 14:32:23.0863 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 14:47:53.9155 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 15:02:55.0088 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 15:17:57.2074 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 15:30:23.3871 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2021-09-06 15:30:23.7386 Info Jackett is already updated. Current version: v0.18.666 
+2021-09-06 15:30:32.6943 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 15:33:26.7237 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 15:48:27.8474 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 16:03:29.5039 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 16:18:59.3648 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 16:30:37.5547 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 16:34:00.6553 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 16:49:32.5277 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 17:05:02.3844 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 17:20:02.7715 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 17:30:40.9064 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 17:35:03.9259 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 17:50:33.7260 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 18:05:34.3490 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 18:20:35.5943 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 18:30:42.8547 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 18:36:05.1916 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 18:51:05.9051 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 19:06:37.0887 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 19:22:06.7467 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 19:30:45.9059 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 19:37:07.7246 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 19:52:38.8995 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 20:08:08.6567 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 20:23:09.0506 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 20:30:47.3115 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 20:38:40.8586 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 20:54:10.9868 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 21:09:12.1977 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 21:24:13.9038 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 21:30:49.7809 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 21:39:43.9638 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 21:54:44.8697 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 22:09:46.6906 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 22:25:17.1463 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 22:30:51.4637 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 22:40:18.1278 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 22:52:24.4694 Info Torznab search in AggregateSearch for See Reich der Blinden S01 => Found 0 releases 
+2021-09-06 22:52:26.2134 Info Torznab search in AggregateSearch for Seinfeld S01 => Found 11 releases 
+2021-09-06 22:52:29.0399 Info Torznab search in AggregateSearch for See S01 => Found 85 releases 
+2021-09-06 22:52:30.3479 Info Torznab search in AggregateSearch for Seinfeld S02 => Found 3 releases 
+2021-09-06 22:52:35.6883 Info Torznab search in AggregateSearch for Seinfeld S03 => Found 3 releases 
+2021-09-06 22:52:41.5520 Info Torznab search in AggregateSearch for Seinfeld S04 => Found 4 releases 
+2021-09-06 22:52:45.9969 Info Torznab search in AggregateSearch for Seinfeld S05 => Found 2 releases 
+2021-09-06 22:52:48.2142 Info Torznab search in AggregateSearch for Seinfeld S06 => Found 2 releases 
+2021-09-06 22:52:53.3492 Info Torznab search in AggregateSearch for Seinfeld S07 => Found 1 releases 
+2021-09-06 22:52:58.7803 Info Torznab search in AggregateSearch for See Reich der Blinden S02 => Found 0 releases 
+2021-09-06 22:52:59.7032 Info Torznab search in AggregateSearch for Seinfeld S08 => Found 2 releases 
+2021-09-06 22:53:01.8561 Info Torznab search in AggregateSearch for See S02 => Found 37 releases 
+2021-09-06 22:53:03.5315 Info Torznab search in AggregateSearch for Seinfeld S09 => Found 3 releases 
+2021-09-06 22:55:49.6280 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 23:11:19.3407 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 23:26:19.9491 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 23:31:02.7614 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 23:41:27.4938 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 23:56:28.9543 Info Torznab search in AggregateSearch for Handmaids Tale S01 => Found 34 releases 
+2021-09-06 23:56:30.4921 Info Torznab search in AggregateSearch for See Reich der Blinden S01 => Found 0 releases 
+2021-09-06 23:56:32.1931 Info Torznab search in AggregateSearch for A Decadencia de uma Especie S01 => Found 0 releases 
+2021-09-06 23:56:34.5286 Info Torznab search in AggregateSearch for See S01 => Found 85 releases 
+2021-09-06 23:56:36.6034 Info Torznab search in AggregateSearch for La Servante ecarlate S01 => Found 0 releases 
+2021-09-06 23:56:38.4834 Info Torznab search in AggregateSearch for El cuento de la criada S01 => Found 0 releases 
+2021-09-06 23:56:40.1449 Info Torznab search in AggregateSearch for Il racconto dell ancella S01 => Found 0 releases 
+2021-09-06 23:56:52.9065 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-06 23:56:55.3897 Info Torznab search in AggregateSearch for See Reich der Blinden S02 => Found 0 releases 
+2021-09-06 23:56:57.8709 Info Torznab search in AggregateSearch for See S02 => Found 37 releases 
+2021-09-06 23:58:09.9291 Info Torznab search in AggregateSearch for See Reich der Blinden S01 => Found 0 releases 
+2021-09-06 23:58:11.9304 Info Torznab search in AggregateSearch for See S01 => Found 85 releases 
+2021-09-07 00:02:09.8027 Info Torznab search in AggregateSearch => Found 10 releases 
+2021-09-07 00:11:54.6818 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 00:27:39.0925 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 00:31:06.2283 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 00:42:58.3558 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 00:57:59.6398 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 01:13:08.1311 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 01:28:32.9178 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 01:31:15.7475 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 01:43:35.1904 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 01:58:37.7275 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 02:14:07.7367 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 02:29:09.0994 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 02:31:21.6483 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 02:44:10.6878 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 02:59:12.0187 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 03:14:13.0214 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 03:29:15.2499 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 03:31:27.0160 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 03:44:16.1217 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 03:59:17.8473 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 04:14:24.1171 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 04:29:49.3841 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 04:31:32.0737 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 04:44:50.3742 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 04:59:53.0972 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 05:15:23.0837 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 05:30:23.8521 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 05:31:37.7277 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 05:45:25.7643 Warn Request to TorrentLeech failed with exception 'No space left on device'. Retrying in 0.5s... (Attempt 1 of 2). 
+2021-09-07 05:45:26.7761 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 06:00:55.2296 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-07 06:16:25.8700 Info Tor2021-09-08 14:54:14.3271 Info Starting Jackett v0.18.656 
+2021-09-08 14:54:15.6855 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-08 14:54:15.6865 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-08 14:54:15.6865 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-08 14:54:15.6934 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-08 14:54:15.7091 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-08 14:54:15.7091 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-08 14:54:15.7091 Info App config/log directory: /config/Jackett 
+2021-09-08 14:54:15.7091 Info Using proxy: Disabled 
+2021-09-08 14:54:15.7091 Info Using FlareSolverr: No 
+2021-09-08 14:54:15.7118 Info Using HTTP Client: HttpWebClient2 
+2021-09-08 14:54:15.7163 Info Loading Native indexers ... 
+2021-09-08 14:54:15.9661 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-08 14:54:15.9701 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-08 14:54:17.9624 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-08 14:54:17.9624 Info Loaded 545 indexers in total 
+2021-09-08 14:54:17.9624 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-08 14:54:17.9710 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-08 14:54:17.9710 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-08 14:54:17.9710 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-08 14:54:17.9741 Info Removing old configuration file: /config/Jackett/Indexers/torrentleech.json.ea5b4fdb6ce24350ad9e702299f24751.tmp 
+2021-09-08 14:54:17.9741 Info Removing old configuration file: /config/Jackett/Indexers/torrentleech.json.c9850675ff8c43a7b00f15a57b33a463.tmp 
+2021-09-08 14:54:17.9741 Info Removing old configuration file: /config/Jackett/Indexers/torrentleech.json.63d2eb34a06346ad93abaf7df581c5f7.tmp 
+2021-09-08 14:54:18.1455 Info Jackett startup finished in 4.833 s 
+2021-09-08 14:57:25.0375 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-08 15:12:50.3002 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-08 15:13:37.0381 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-08 15:13:50.5049 Info Torznab search in AggregateSearch => Found 10 releases 
+2021-09-08 15:14:02.4912 Info Torznab search in AggregateSearch => Found 10 releases 
+2021-09-08 15:15:34.3566 Info Torznab search in AggregateSearch for See Reich der Blinden S01 => Found 0 releases 
+2021-09-08 15:15:36.4486 Info Torznab search in AggregateSearch for See S01 => Found 85 releases 
+2021-09-08 15:15:38.7515 Info Torznab search in AggregateSearch for Handmaids Tale S01 => Found 34 releases 
+2021-09-08 15:15:40.3512 Info Torznab search in AggregateSearch for A Decadencia de uma Especie S01 => Found 0 releases 
+2021-09-08 15:15:42.5349 Info Torznab search in AggregateSearch for La Servante ecarlate S01 => Found 0 releases 
+2021-09-08 15:15:44.5337 Info Torznab search in AggregateSearch for El cuento de la criada S01 => Found 0 releases 
+2021-09-08 15:15:46.6845 Info Torznab search in AggregateSearch for Il racconto dell ancella S01 => Found 0 releases 
+2021-09-08 15:16:00.5827 Info Torznab search in AggregateSearch for See Reich der Blinden S02 => Found 0 releases 
+2021-09-08 15:16:02.4145 Info Torznab search in AggregateSearch for See S02 => Found 37 releases 
+2021-09-08 15:27:51.3007 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-08 15:34:02.2600 Info Starting Jackett v0.18.656 
+2021-09-08 15:34:12.4372 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-08 15:34:12.4382 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-08 15:34:12.4382 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-08 15:34:12.5093 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-08 15:34:12.6806 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-08 15:34:12.6806 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-08 15:34:12.6806 Info App config/log directory: /config/Jackett 
+2021-09-08 15:34:12.6822 Info Using proxy: Disabled 
+2021-09-08 15:34:12.6822 Info Using FlareSolverr: No 
+2021-09-08 15:34:12.7535 Info Using HTTP Client: HttpWebClient2 
+2021-09-08 15:34:12.7595 Info Loading Native indexers ... 
+2021-09-08 15:34:14.5351 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-08 15:34:14.7311 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-08 15:34:20.2590 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-08 15:34:20.2590 Info Loaded 545 indexers in total 
+2021-09-08 15:34:20.2590 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-08 15:34:20.2715 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-08 15:34:20.2715 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-08 15:34:20.2715 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-08 15:34:20.8058 Info Jackett startup finished in 31.404 s 
+2021-09-08 15:43:23.5871 Info Torznab search in AggregateSearch => Found 85 releases 
+2021-09-08 15:47:46.1558 Info Starting Jackett v0.18.656 
+2021-09-08 15:47:48.7763 Info Environment version: 5.0.9 (/app/Jackett/) 
+2021-09-08 15:47:48.7763 Info OS version: Unix 5.4.0.77 (64bit OS) (64bit process) 
+2021-09-08 15:47:48.7763 Info Jackett variant: CoreLinuxAmdx64 
+2021-09-08 15:47:48.7763 Info File /etc/issue: Ubuntu 18.04.5 LTS \n \l 
+2021-09-08 15:47:48.7763 Info Running in Docker: Yes (image build: v0.18.656-ls43) 
+2021-09-08 15:47:48.7763 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2021-09-08 15:47:48.7781 Info App config/log directory: /config/Jackett 
+2021-09-08 15:47:48.7781 Info Using proxy: Disabled 
+2021-09-08 15:47:48.7781 Info Using FlareSolverr: No 
+2021-09-08 15:47:48.7781 Info Using HTTP Client: HttpWebClient2 
+2021-09-08 15:47:48.7852 Info Loading Native indexers ... 
+2021-09-08 15:47:49.2876 Info Loaded 99 Native indexers: abnormal, alpharatio, anidex, anidub, AniLibria, animebytes, Animedia, animetorrents, anthelion, avistaz, bakabt, bb, beyond-hd-api, bitcityreloaded, bithdtv, bjshare, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, danishbytes, darmowetorenty, desitorrents, dicmusic, digitalcore, divxtotal, epublibre, erai-raws, exoticaz, filelist, funfile, fuzer, gazellegames, gimmepeers, hdbitsapi, hdspace, hdtorrents, hebits, immortalseed, internetarchive, iptorrents, libble, lostfilm, magnetico, mejortorrent, milkie, morethantv, myanonamouse, ncore, nebulance, newpct, norbits, oppaitime, orpheus, passthepopcorn, piratethenet, pixelhd, polishtracker, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, showrss, solidtorrents, speedapp, speedcd, subsplease, superbits, thepiratebay, toloka, torrentbytes, torrentday, torrentech, torrentheaven, torrentleech, torrentmafya, torrentnetwork, torrent-paradise-ml, torrentscsv, torrentseeds, torrentsyndikat, tvstore, tvvault, xspeeds, xthor-api, yts, zonaq, animetosho 
+2021-09-08 15:47:49.2918 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2021-09-08 15:47:51.8542 Info Loaded 446 Cardigann indexers: brasiltracker, pier720, RockBox, pornbay, pornforall, legacyhd, amigosshare, 3dtorrents, pornotor, scenerush, gay-torrentsorg, unlimitz, hdcity, trupornolabs, eniahd, moviesdvdr, darktracker, asiancinema, learnbits, torrent9, potuk, beitai, theshow, hdme, film-paleis, carphunter, teracod, gamestorrents, finvip, eztv, hdroute, racing4everyone, crnaberza, asiandvdclub, ilcorsaronero, gktorrent, majomparade, ptfiles, arabafenice, opencd, hdu, piratbitl, torrentleech-pl, gfxpeers, coastalcrew, fouducinema, bit-titan, torrentparadise, torrentslocal, acgsou, ptsbao, torrentland, Bittorrentfiles, bithumen, magicheaven, hamsterstudio, libranet, oncesearch, torrent-turk, borgzelle, 4thd, yourbittorrent, toros, zooqle, hdtorrentsit, rutracker-ru, baibako, vizuk, marinetracker, blutopia, seedfile, theoccult, nyaasi, hdbits, ydypt, ilcorsaroblu, gay-torrents, dxp, divteam, tjupt, lepornoinfo, xiteme, ptmsg, redstartorrent, u2, torrentdownload, empornium2fa, hdcztorrent, pornorip, springsunday, backups, trackeros, carpathians, hdchina, bigtorrent, nitro, muziekfabriek, prostylex, bitsexy, empornium, dark-shadow, beyond-hd, uniongang, demonoid, beyond-hd-oneurl, tlfbits, hdzone, catorrent, fantastiko, generationfree, redbits, shareisland, badasstorrents, extremlymtorrents, fanoin, anime-free, oshenpt, btdigg, torrentproject2, haidan, nntt, pirateiro, girotorrent, frozenlayer, sosulki, bwtorrents, hush, wihd, hdcenter, xxxadulttorrent, concen, tasmanit, torrentview, lesaloon, pixelcove, hqsource, torrentsurf, booktracker, underversel, jptv, hdhome, pttime, losslessclub, btnext, sukebeinyaasi, newstudiol, wdt, torrentkitty, thesceneplace, bitturk, piratadigital, tntfork, xxxtor, pterclub, gigatorrents, mousebits, anisource, concertos, purovicio, filebase, oxtorrent, lemonhd, netcosmo, theaudioscene, haitang, torrentoyunindir, cinemamovies, fantasticheaven, torrentsectorcrew, hdspain, xbytesv2, trezzor, sktorrent-org, gaytorrentru, zelkaorg, cinematik, diablotorrent, ehentai, hdtime, ibit, thegeeks, turkseed, uhdbits, kinozal, torrentdb, ebooks-shares, rus-media, torrentfunk, limetorrents, pthome, rgfootball, rptorrents, sktorrent, mypornclub, xxxtorrents, rutor, torrentmax, aither, extremebits, speedmasterhd, isohunt2, shokweb, twilight, torrentlt, hdhouse, exttorrents, totallykids, greekdiamond, mma-torrents, animeclipse, hdforever, resurrectthenet, desireleasers, puntotorrent, torrent9clone, jpopsuki, montorrent, puurhollands, newstudio, torrentv, crazyhd, 7torrents, happyfappy, hdbitscom, sporthd, myspleen, torrenthr, brsociety, sukebei-pantsu, dimeadozen, theempire, mnv, huntorrent, speedtorrentreloaded, r3vwtf, broadcity, spiritofrevolution, thehorrorcharnel, nethd, elitetorrent-biz, crazyspirits, metaltracker, immortuos, peersfm, theplace, rustorka, hdsky, microbit, pwtorrents, rintornet, magico, itorrent, sdbits, hdonly, trancetraffic, oasis, torrentwhiz, vsttorrents, riperam, kinonavse100, femdomcult, hdc, madsrevolution, firebit, classix, nyaa-pantsu, nbytez, torrentsir, noname-clubl, hdarea, aidoruonline, linuxtracker, torlock, genesismovement, greekteam, mircrew, hddolby, woot, xwtclassics, tellytorrent, boxingtorrents, omgwtftrackr, romanianmetaltorrents, pctorrent, mesevilag, funkytorrents, aniRena, torrenting, ebookparadijs, hdturk, arabp2p, arenabg, deildu, bitsearch, acidlounge, torrent-pirat, audiobookbay, hellastz, peerjunkies, keepfriends, bitded, cathoderaytube, torrent-explosiv, acrossthetasman, ztracker, hd4fans, kinorun, exkinoray, yggcookie, pussytorrents, casatorrent, torrentqq, sugoimusic, bluebirdhd, netlab, themixingbowl, crt2fa, onejav, piratbit, sharewood, angietorrents, torrentz2eu, selezen, cinemageddon, dariustracker, glodls, animeworld, insanetracker, tribalmixes, mvgroupmain, audionews, turktorrent, polishsource, pornleech, yggtorrent, thevault, soulvoice, tokyotosho, extremetorrents, zamundanet, snowpt, torrentccf, parnuxi, btsow, acgrip, filelisting, dragonworldreloaded, hdolimpo, rainbowtracker, teamhd, idope, teamos, bitru, anaschcc, bootytape, ettv, proaudiotorrents, torrentbd, 3changtrai, kickasstorrents-ws, cartoonchaos, estone, 0daykiev, btetree, tvchaosuk, xwtorrents, portugas, uniondht, siambit, unionfansub, finelite, thefallingangels, iv-torrents, esharenet, theleachzone, legittorrents, torrentdownloads, chdbits, ccfbits, extratorrent-cd, btschool, newretro, cpasbien, ourbits, mononokebt, hdatmos, mteamtp, vsthouse, sexypics, mteamtp2fa, underverse, totheglory, sportscult, mvgroupforum, bibliotik, noname-club, aussierules, tapochek, efectodoppler, Das-Unerwartete, totheglorycookie, kickasstorrents-to, pleasuredome, pornolive, torrentgalaxy, twilightszoom, ceskeforum, sharefiles, racingforme, aftershock, 2fast4you, lastfiles, abtorrents, bithorlo, mactorrents, 1337x, bt4g, bitspyder, feedurneed, rapidzona, cpasbienclone, pornbits, dmhy, p2pelite, scenepalace, swarmazon, linkomanija, mixtapetorrent, 1ptbar, p2pbg, theshinning, comicat, tekno3d, movietorrent, byrutor, ttsweb, nbtorrents, bigfangroup, proporno, karagarga, rintor, chilebt, zetorrents, learnflakes, gtorrentpro, 52pt 
+2021-09-08 15:47:51.9179 Info Loaded 545 indexers in total 
+2021-09-08 15:47:51.9201 Info Adding aggregate indexer ('all' indexer) ... 
+2021-09-08 15:47:51.9315 Info Adding filter indexer ('type:public' indexer) ... 
+2021-09-08 15:47:51.9315 Info Adding filter indexer ('type:private' indexer) ... 
+2021-09-08 15:47:51.9315 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2021-09-08 15:47:52.9308 Info Jackett startup finished in 12.208 s 
+2021-09-08 15:54:05.2840 Info Torznab search in AggregateSearch => Found 85 releases 
