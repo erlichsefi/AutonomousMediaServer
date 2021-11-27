@@ -33,7 +33,7 @@ services:
 
   radarr:
     container_name: radarr
-    image: linuxserver/radarr
+    image: linuxserver/radarr:latest
     restart: unless-stopped
     ports:
     - 7878:7878
@@ -49,7 +49,7 @@ services:
  
   sonarr:
     container_name: sonarr
-    image: linuxserver/sonarr
+    image: linuxserver/sonarr:latest
     restart: unless-stopped
     ports:
       - 8989:8989
@@ -65,7 +65,7 @@ services:
 
   jackett:
     container_name: jackett
-    image: linuxserver/jackett
+    image: linuxserver/jackett:latest
     restart: unless-stopped
     ports:
       - 9117:9117
