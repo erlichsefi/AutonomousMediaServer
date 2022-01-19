@@ -7,3 +7,4 @@ resource/Jackett/Jackett/Indexers/
 resource/Jackett/Jackett/log.txt
 resource/Jackett/Jackett/ServerConfig.json
 resource/Jackett/Jackett/DataProtection/key-9feea576-c723-4e1c-8300-94c5191375a1.xml
+resource/Jackett/Jackett/updater.txt
