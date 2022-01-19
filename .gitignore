@@ -1,3 +1,9 @@
 config
 meta-data/Jacket/*
 meta-data/transmission/*
+resource/Jackett/Jackett/Indexers/
+.env
+
+resource/Jackett/Jackett/log.txt
+resource/Jackett/Jackett/ServerConfig.json
+resource/Jackett/Jackett/DataProtection/key-9feea576-c723-4e1c-8300-94c5191375a1.xml
