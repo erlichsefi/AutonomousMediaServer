@@ -2,6 +2,7 @@ version: '3'
 services:
   plex:
     container_name: plex_media
+    network_mode: host
     image: plexinc/pms-docker:latest
     restart: unless-stopped
     ports:
@@ -33,6 +34,7 @@ services:
 
   radarr:
     container_name: radarr
+    network_mode: host
     image: linuxserver/radarr:latest
     restart: unless-stopped
     ports:
@@ -49,6 +51,7 @@ services:
  
   sonarr:
     container_name: sonarr
+    network_mode: host
     image: linuxserver/sonarr:latest
     restart: unless-stopped
     ports:
