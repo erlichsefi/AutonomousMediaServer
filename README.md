@@ -1,5 +1,7 @@
 This is a new version of the autonumos stream dockers.
 
+
+
 Service #1: Trassmission Docker for downloading torrents:
     
     your job: 
@@ -10,6 +12,7 @@ Service #1: Trassmission Docker for downloading torrents:
         "script-torrent-done-enabled": true,
         "script-torrent-done-filename": "scripts/unzip.sh",
        
+
 
 Service #2: Jacket Docker that track torrent sources:
   - hebits
@@ -43,3 +46,11 @@ Track to following folders.
 
 Bottom line,
 I'm adding Movies/Tv shows to trakt.tv list, 24 hours later i can watch them in my android Flex client, every new episode that air is download automatically. 
+
+![Jacket To Trackers](images/jacket-to-torrents-trackers.png)
+
+![Sonarr/Radarr to fetch from Trakt](images/sonarr-radarr-to-trakt.png)
+![Sonarr/Radarr to query jacket](images/sonarr-radarr-to-jacket.png)
+![Sonarr/Radarr to download from Transmission](images/sonarr-radarr-to-transmission.png)
+
+![Plex Read Sonarr/Radarr output](images/plex-to-sonarr-radarr-to-folder.png)
