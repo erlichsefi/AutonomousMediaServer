@@ -6,7 +6,10 @@ all you need is:
  - local server (old pc) with Docker to run the dockers ( you can download docker here https://www.docker.com/)
 
 ------------
-
+## Support 
+ if you are tring to run this and you have questions please contact me, luckly, all of the code is not mine, but i will try to make the README clearer according to your questions.
+ 
+------------
 # How we do this?
 
 ## Service #0: Traket.tv lists
@@ -56,7 +59,8 @@ What you need to do.
 1. Configure sonarr to read trakt list with new TV shows.
 2. Configure sonarr to query jacket once new episodes need to be download.
 3. Configure in sonarr download client as transmission.
-
+ 
+ see Appendix for examples.
 
 ## Service #4: Ranarr to orchestrate all for TV shows
 - Check if Trakt for new items.
@@ -70,7 +74,8 @@ What you need to do.
 1. Configure radarr to read trakt list with new Movies.
 2. Configure radarr to query jacket once new episodes need to be download.
 3. Configure in radarr download client as transmission.
-
+ 
+ see Appendix for examples.
 
 ## Service #5: Flex to manage a media server.
 
@@ -87,7 +92,7 @@ Bottom line,
 I'm adding Movies/Tv shows to trakt.tv list, 24 hours later i can watch them in my android Flex client, every new episode that air is download automatically. 
 
 
-Example for Sonarr and Radarr:
+Appendix for Sonarr and Radarr:
 
 ![Sonarr/Radarr to fetch from Trakt](images/sonarr-radarr-to-trakt.png)
 ![Sonarr/Radarr to query jacket](images/sonarr-radarr-to-jacket.png)
